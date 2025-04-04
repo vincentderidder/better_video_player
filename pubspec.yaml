@@ -16,7 +16,7 @@ dependencies:
   visibility_detector: any
   video_player: any
   provider: any
-  connectivity: any
+  connectivity_plus: any
 
 dev_dependencies:
   flutter_test:
